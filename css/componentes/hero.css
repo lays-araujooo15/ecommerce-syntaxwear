@@ -1,9 +1,9 @@
 .hero-section {
     background: url(../../images/banners/hero.jpg) no-repeat center;
     background-size: cover;
-    height: 500px;
+    height: 50rem;
     position: relative;
-    border-radius: 20px;
+    border-radius: 2rem;
 }
 
 
@@ -18,25 +18,25 @@
 
 .hero-content {
     color: #ffffff;
-    max-width: 360px;
+    max-width: 36rem;
     text-align: center;
 }
 
 .hero-buttons {
     display: flex;
-    gap: 16px;
+    gap: 1.6rem;
 }
 
 .hero-content .hero-title {
-    font-size: 1.87rem;
-    margin-bottom: 40px;
+    font-size: 3rem;
+    margin-bottom: 4rem;
     font-weight: 400;
-    line-height: 36px;
-    letter-spacing: 3px;
+    line-height: 3.6rem;
+    letter-spacing: 0.3rem;
 }
 
 .hero-content .hero-subtitle {
-    font-size: 1.25rem;
+    font-size: 2rem;
     font-weight: 400;
 }
 

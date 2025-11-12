@@ -1,10 +1,10 @@
 .header {
   position: fixed;
-  top: 60px;
+  top: 6rem;
   left: 50%;
   transform: translate(-50%);
-  width: calc(100% - 210px);
-  border-radius: 15px;
+  width: calc(90% - 21rem);
+  border-radius: 1.5rem;
   z-index: 999;
   display: flex;
   justify-content: space-between;
@@ -14,7 +14,7 @@
 }
 
 .logo img {
-    height: 48px;
+    height: 4.8rem;
    
 
 }
@@ -27,7 +27,7 @@
 .nav-center a,
 .nav-right a {
   font-weight: 400;
-  font-size: 20px;
+  font-size: 2rem;
 }
 
 .nav-center a:hover, 
@@ -42,7 +42,7 @@
  }
 
  .nav-right img {
-    height: 20px;
+    height: 2rem;
  }
 
 .nav-right a:hover img {
