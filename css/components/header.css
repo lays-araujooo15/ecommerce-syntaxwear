@@ -9,12 +9,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 28px;
+    padding: 12px 20px;
     background-color: #ffffff;
 }
 
-.logo {
-    height: 40px;
+.logo img{
+    height: 48px;
+    width: 150px;
 }
 
 .nav-center ul{
