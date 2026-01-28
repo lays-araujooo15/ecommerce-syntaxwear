@@ -1,6 +1,6 @@
 .header{
     position: fixed;
-    top:20px;
+    top: 20px;
     left: 50%;
     transform: translate(-50%);
     width: calc(100% - 40px);
@@ -9,13 +9,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 20px;
+    padding: 0.225rem 1.25rem;
     background-color: #ffffff;
 }
+
 
 .logo img{
     height: 48px;
     width: 150px;
+    
+    
 }
 
 .nav-center ul{
@@ -26,6 +29,7 @@
 .nav-center a,
 .nav-right a{
     font-size: 1.25rem;
+    color: #333333;
 }
 
 .nav-center a:hover,
