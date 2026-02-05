@@ -23,7 +23,7 @@ Para rodar este projeto localmente:
     `cd ecommerce-syntaxwear`
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
 
-## Estrutura do Projeto (Simplificada)
+## Estrutura do Projeto
 
 -   `index.html`: A página principal do e-commerce.
 -   `css/`: Contém todos os estilos CSS, organizados por componentes.
